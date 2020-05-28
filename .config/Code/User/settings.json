@@ -1,0 +1,41 @@
+{
+    "keyboard.dispatch": "keyCode",
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.activityBar.visible": false,
+    "window.zoomLevel": -2,
+    "window.menuBarVisibility": "toggle",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "[javascriptreact]": {
+        "editor.formatOnSave": false
+    },
+    "[typescript]": {
+        "editor.formatOnSave": false
+    },
+    "[typescriptreact]": {
+        "editor.formatOnSave": false
+    },
+    "eslint.debug": true,
+    "editor.tabSize": 2,
+    "editor.fontFamily": "\"source code pro for powerline\"",
+    "editor.fontWeight": "400",
+    "typescript.extension.sortImports.omitSemicolon": true,
+    "typescript.extension.sortImports.enableJavascript": true,
+    "typescript.extension.sortImports.quoteStyle": "double",
+    "typescript.extension.sortImports.sortMethod": "path",
+    "typescript.extension.sortImports.pathSortOrder": [
+        "package",
+        "relativeUpLevel",
+        "relativeDownLevel"
+    ],
+    "eslint.format.enable": true
+}
